@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.4.2 (swiftlang-1205.0.28.2 clang-1205.0.19.57)"
+options: "aad58b0743436147067e733ccd1595fe"
+build_time: [1632391287, 394914000]
+inputs:
+  "/Users/iqmemon/Documents/Flutter Examples/flutter_federated_example/macos/Runner/MainFlutterWindow.swift": [1615532568, 0]
+  "/Users/iqmemon/Documents/Flutter Examples/flutter_federated_example/macos/Runner/AppDelegate.swift": [1615532568, 0]
+  "/Users/iqmemon/Documents/Flutter Examples/flutter_federated_example/macos/Flutter/GeneratedPluginRegistrant.swift": [1632391266, 473121552]
